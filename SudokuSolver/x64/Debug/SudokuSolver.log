@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\nathi\source\repos\SudokuSolver\main.cpp(151,45): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nathi\source\repos\SudokuSolver\main.cpp(153,37): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  SudokuSolver.vcxproj -> C:\Users\nathi\source\repos\SudokuSolver\x64\Debug\SudokuSolver.exe
